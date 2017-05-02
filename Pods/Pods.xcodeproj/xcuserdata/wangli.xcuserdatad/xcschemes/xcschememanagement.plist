@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>DACircularProgress.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -29,17 +24,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>MWPhotoBrowser.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Masonry.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>PSTCollectionView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -62,7 +47,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>29E0C9DE3FF70395BE8E9E30B0707D10</key>
+		<key>0EBC11582DB4975F669F63893EE530B7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -77,16 +62,6 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>74888A8DAF0670898F97F55A659DF4D7</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>7DF11ADB88A0E7F937A19872D5724754</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>9DC8D9E02903E93BD0B2FEC9D846EA20</key>
 		<dict>
 			<key>primary</key>
@@ -97,12 +72,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C791F0A928C1A8FE97074DFC9ACF4E75</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E37C141AF883CEE3D5A8E4BB5D415B74</key>
+		<key>F4676A0B7D4B78B2C6400F3CB7DD3FC0</key>
 		<dict>
 			<key>primary</key>
 			<true/>

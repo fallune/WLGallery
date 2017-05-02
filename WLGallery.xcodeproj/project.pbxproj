@@ -8,6 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		4F515727BFD24717CE13C503 /* libPods-WLGallery.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D33F72E9B02A84644BFA0582 /* libPods-WLGallery.a */; };
+		81303FF21EB049FD002D54E7 /* YN_GalleryVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 81303FF11EB049FD002D54E7 /* YN_GalleryVC.m */; };
+		81303FF51EB04AE7002D54E7 /* Image_Show_VC.m in Sources */ = {isa = PBXBuildFile; fileRef = 81303FF41EB04AE7002D54E7 /* Image_Show_VC.m */; };
+		81303FFA1EB04B98002D54E7 /* CircleProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 81303FF91EB04B98002D54E7 /* CircleProgressView.m */; };
+		81303FFE1EB04BC0002D54E7 /* ExifTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 81303FFD1EB04BC0002D54E7 /* ExifTableView.m */; };
+		813040021EB04BF7002D54E7 /* WWimageExitInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040011EB04BF7002D54E7 /* WWimageExitInfo.m */; };
+		8130400A1EB04C1B002D54E7 /* ClsDraw.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040051EB04C1B002D54E7 /* ClsDraw.m */; };
+		8130400B1EB04C1B002D54E7 /* ClsDrawPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040071EB04C1B002D54E7 /* ClsDrawPoint.m */; };
+		8130400C1EB04C1B002D54E7 /* HistogramView.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040091EB04C1B002D54E7 /* HistogramView.m */; };
+		813040151EB04C8D002D54E7 /* STConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040101EB04C8D002D54E7 /* STConst.m */; };
+		813040161EB04C8D002D54E7 /* STUI.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040121EB04C8D002D54E7 /* STUI.m */; };
+		813040171EB04C8D002D54E7 /* UIView+ST.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040141EB04C8D002D54E7 /* UIView+ST.m */; };
+		813040231EB04CBA002D54E7 /* STAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8130401A1EB04CBA002D54E7 /* STAlertView.m */; };
+		813040241EB04CBA002D54E7 /* STIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8130401C1EB04CBA002D54E7 /* STIndicatorView.m */; };
+		813040251EB04CBA002D54E7 /* STPhotoBrowserController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8130401E1EB04CBA002D54E7 /* STPhotoBrowserController.m */; };
+		813040261EB04CBA002D54E7 /* STPhotoBrowserView.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040201EB04CBA002D54E7 /* STPhotoBrowserView.m */; };
+		813040271EB04CBA002D54E7 /* YN_Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040221EB04CBA002D54E7 /* YN_Cell.m */; };
+		813040361EB0822A002D54E7 /* WLImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 813040351EB0822A002D54E7 /* WLImage.m */; };
+		8130403B1EB08397002D54E7 /* OpenModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8130403A1EB08397002D54E7 /* OpenModel.m */; };
 		81B52CF91EB0416F0076D1C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 81B52CF81EB0416F0076D1C3 /* main.m */; };
 		81B52CFC1EB0416F0076D1C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 81B52CFB1EB0416F0076D1C3 /* AppDelegate.m */; };
 		81B52CFF1EB041700076D1C3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81B52CFE1EB041700076D1C3 /* ViewController.m */; };
@@ -17,6 +35,43 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		81303FF01EB049FD002D54E7 /* YN_GalleryVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YN_GalleryVC.h; sourceTree = "<group>"; };
+		81303FF11EB049FD002D54E7 /* YN_GalleryVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YN_GalleryVC.m; sourceTree = "<group>"; };
+		81303FF31EB04AE7002D54E7 /* Image_Show_VC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image_Show_VC.h; sourceTree = "<group>"; };
+		81303FF41EB04AE7002D54E7 /* Image_Show_VC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Image_Show_VC.m; sourceTree = "<group>"; };
+		81303FF81EB04B98002D54E7 /* CircleProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleProgressView.h; sourceTree = "<group>"; };
+		81303FF91EB04B98002D54E7 /* CircleProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleProgressView.m; sourceTree = "<group>"; };
+		81303FFC1EB04BC0002D54E7 /* ExifTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExifTableView.h; sourceTree = "<group>"; };
+		81303FFD1EB04BC0002D54E7 /* ExifTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExifTableView.m; sourceTree = "<group>"; };
+		813040001EB04BF7002D54E7 /* WWimageExitInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WWimageExitInfo.h; sourceTree = "<group>"; };
+		813040011EB04BF7002D54E7 /* WWimageExitInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WWimageExitInfo.m; sourceTree = "<group>"; };
+		813040041EB04C1B002D54E7 /* ClsDraw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClsDraw.h; sourceTree = "<group>"; };
+		813040051EB04C1B002D54E7 /* ClsDraw.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClsDraw.m; sourceTree = "<group>"; };
+		813040061EB04C1B002D54E7 /* ClsDrawPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClsDrawPoint.h; sourceTree = "<group>"; };
+		813040071EB04C1B002D54E7 /* ClsDrawPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClsDrawPoint.m; sourceTree = "<group>"; };
+		813040081EB04C1B002D54E7 /* HistogramView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HistogramView.h; sourceTree = "<group>"; };
+		813040091EB04C1B002D54E7 /* HistogramView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HistogramView.m; sourceTree = "<group>"; };
+		8130400E1EB04C8D002D54E7 /* STConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STConfig.h; sourceTree = "<group>"; };
+		8130400F1EB04C8D002D54E7 /* STConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STConst.h; sourceTree = "<group>"; };
+		813040101EB04C8D002D54E7 /* STConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STConst.m; sourceTree = "<group>"; };
+		813040111EB04C8D002D54E7 /* STUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUI.h; sourceTree = "<group>"; };
+		813040121EB04C8D002D54E7 /* STUI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUI.m; sourceTree = "<group>"; };
+		813040131EB04C8D002D54E7 /* UIView+ST.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ST.h"; sourceTree = "<group>"; };
+		813040141EB04C8D002D54E7 /* UIView+ST.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ST.m"; sourceTree = "<group>"; };
+		813040191EB04CBA002D54E7 /* STAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STAlertView.h; sourceTree = "<group>"; };
+		8130401A1EB04CBA002D54E7 /* STAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STAlertView.m; sourceTree = "<group>"; };
+		8130401B1EB04CBA002D54E7 /* STIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STIndicatorView.h; sourceTree = "<group>"; };
+		8130401C1EB04CBA002D54E7 /* STIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STIndicatorView.m; sourceTree = "<group>"; };
+		8130401D1EB04CBA002D54E7 /* STPhotoBrowserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STPhotoBrowserController.h; sourceTree = "<group>"; };
+		8130401E1EB04CBA002D54E7 /* STPhotoBrowserController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STPhotoBrowserController.m; sourceTree = "<group>"; };
+		8130401F1EB04CBA002D54E7 /* STPhotoBrowserView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STPhotoBrowserView.h; sourceTree = "<group>"; };
+		813040201EB04CBA002D54E7 /* STPhotoBrowserView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STPhotoBrowserView.m; sourceTree = "<group>"; };
+		813040211EB04CBA002D54E7 /* YN_Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YN_Cell.h; sourceTree = "<group>"; };
+		813040221EB04CBA002D54E7 /* YN_Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YN_Cell.m; sourceTree = "<group>"; };
+		813040341EB0822A002D54E7 /* WLImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLImage.h; sourceTree = "<group>"; };
+		813040351EB0822A002D54E7 /* WLImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLImage.m; sourceTree = "<group>"; };
+		813040391EB08397002D54E7 /* OpenModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenModel.h; sourceTree = "<group>"; };
+		8130403A1EB08397002D54E7 /* OpenModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenModel.m; sourceTree = "<group>"; };
 		81B52CF41EB0416F0076D1C3 /* WLGallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WLGallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81B52CF81EB0416F0076D1C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		81B52CFA1EB0416F0076D1C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -61,6 +116,136 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		81303FEE1EB0494F002D54E7 /* iamges */ = {
+			isa = PBXGroup;
+			children = (
+				813040181EB04C9D002D54E7 /* STPhotoBrowserView */,
+				8130400D1EB04C5C002D54E7 /* STPhotoBrowserConfig */,
+				813040031EB04C04002D54E7 /* Histogram */,
+				81303FFF1EB04BCF002D54E7 /* Exif */,
+				81303FFB1EB04BAA002D54E7 /* ExifTable */,
+				81303FF61EB04B7C002D54E7 /* ProgressView */,
+				81303FF31EB04AE7002D54E7 /* Image_Show_VC.h */,
+				81303FF41EB04AE7002D54E7 /* Image_Show_VC.m */,
+			);
+			name = iamges;
+			sourceTree = "<group>";
+		};
+		81303FEF1EB0495D002D54E7 /* thumbs */ = {
+			isa = PBXGroup;
+			children = (
+				81303FF01EB049FD002D54E7 /* YN_GalleryVC.h */,
+				81303FF11EB049FD002D54E7 /* YN_GalleryVC.m */,
+			);
+			name = thumbs;
+			sourceTree = "<group>";
+		};
+		81303FF61EB04B7C002D54E7 /* ProgressView */ = {
+			isa = PBXGroup;
+			children = (
+				81303FF71EB04B98002D54E7 /* CircleProgressView */,
+			);
+			name = ProgressView;
+			sourceTree = "<group>";
+		};
+		81303FF71EB04B98002D54E7 /* CircleProgressView */ = {
+			isa = PBXGroup;
+			children = (
+				81303FF81EB04B98002D54E7 /* CircleProgressView.h */,
+				81303FF91EB04B98002D54E7 /* CircleProgressView.m */,
+			);
+			path = CircleProgressView;
+			sourceTree = "<group>";
+		};
+		81303FFB1EB04BAA002D54E7 /* ExifTable */ = {
+			isa = PBXGroup;
+			children = (
+				81303FFC1EB04BC0002D54E7 /* ExifTableView.h */,
+				81303FFD1EB04BC0002D54E7 /* ExifTableView.m */,
+			);
+			name = ExifTable;
+			sourceTree = "<group>";
+		};
+		81303FFF1EB04BCF002D54E7 /* Exif */ = {
+			isa = PBXGroup;
+			children = (
+				813040001EB04BF7002D54E7 /* WWimageExitInfo.h */,
+				813040011EB04BF7002D54E7 /* WWimageExitInfo.m */,
+			);
+			name = Exif;
+			sourceTree = "<group>";
+		};
+		813040031EB04C04002D54E7 /* Histogram */ = {
+			isa = PBXGroup;
+			children = (
+				813040041EB04C1B002D54E7 /* ClsDraw.h */,
+				813040051EB04C1B002D54E7 /* ClsDraw.m */,
+				813040061EB04C1B002D54E7 /* ClsDrawPoint.h */,
+				813040071EB04C1B002D54E7 /* ClsDrawPoint.m */,
+				813040081EB04C1B002D54E7 /* HistogramView.h */,
+				813040091EB04C1B002D54E7 /* HistogramView.m */,
+			);
+			name = Histogram;
+			sourceTree = "<group>";
+		};
+		8130400D1EB04C5C002D54E7 /* STPhotoBrowserConfig */ = {
+			isa = PBXGroup;
+			children = (
+				8130400E1EB04C8D002D54E7 /* STConfig.h */,
+				8130400F1EB04C8D002D54E7 /* STConst.h */,
+				813040101EB04C8D002D54E7 /* STConst.m */,
+				813040111EB04C8D002D54E7 /* STUI.h */,
+				813040121EB04C8D002D54E7 /* STUI.m */,
+				813040131EB04C8D002D54E7 /* UIView+ST.h */,
+				813040141EB04C8D002D54E7 /* UIView+ST.m */,
+			);
+			name = STPhotoBrowserConfig;
+			sourceTree = "<group>";
+		};
+		813040181EB04C9D002D54E7 /* STPhotoBrowserView */ = {
+			isa = PBXGroup;
+			children = (
+				813040191EB04CBA002D54E7 /* STAlertView.h */,
+				8130401A1EB04CBA002D54E7 /* STAlertView.m */,
+				8130401B1EB04CBA002D54E7 /* STIndicatorView.h */,
+				8130401C1EB04CBA002D54E7 /* STIndicatorView.m */,
+				8130401D1EB04CBA002D54E7 /* STPhotoBrowserController.h */,
+				8130401E1EB04CBA002D54E7 /* STPhotoBrowserController.m */,
+				8130401F1EB04CBA002D54E7 /* STPhotoBrowserView.h */,
+				813040201EB04CBA002D54E7 /* STPhotoBrowserView.m */,
+				813040211EB04CBA002D54E7 /* YN_Cell.h */,
+				813040221EB04CBA002D54E7 /* YN_Cell.m */,
+			);
+			name = STPhotoBrowserView;
+			sourceTree = "<group>";
+		};
+		813040311EB081CC002D54E7 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				813040381EB0836B002D54E7 /* OpenModel */,
+				813040371EB08360002D54E7 /* WLImage */,
+			);
+			name = model;
+			sourceTree = "<group>";
+		};
+		813040371EB08360002D54E7 /* WLImage */ = {
+			isa = PBXGroup;
+			children = (
+				813040341EB0822A002D54E7 /* WLImage.h */,
+				813040351EB0822A002D54E7 /* WLImage.m */,
+			);
+			name = WLImage;
+			sourceTree = "<group>";
+		};
+		813040381EB0836B002D54E7 /* OpenModel */ = {
+			isa = PBXGroup;
+			children = (
+				813040391EB08397002D54E7 /* OpenModel.h */,
+				8130403A1EB08397002D54E7 /* OpenModel.m */,
+			);
+			name = OpenModel;
+			sourceTree = "<group>";
+		};
 		81B52CEB1EB0416F0076D1C3 = {
 			isa = PBXGroup;
 			children = (
@@ -82,6 +267,9 @@
 		81B52CF61EB0416F0076D1C3 /* WLGallery */ = {
 			isa = PBXGroup;
 			children = (
+				813040311EB081CC002D54E7 /* model */,
+				81303FEF1EB0495D002D54E7 /* thumbs */,
+				81303FEE1EB0494F002D54E7 /* iamges */,
 				81B52CFA1EB0416F0076D1C3 /* AppDelegate.h */,
 				81B52CFB1EB0416F0076D1C3 /* AppDelegate.m */,
 				81B52CFD1EB0416F0076D1C3 /* ViewController.h */,
@@ -149,6 +337,8 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
+				"zh-Hant",
 			);
 			mainGroup = 81B52CEB1EB0416F0076D1C3;
 			productRefGroup = 81B52CF51EB0416F0076D1C3 /* Products */;
@@ -226,9 +416,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				813040161EB04C8D002D54E7 /* STUI.m in Sources */,
+				81303FF21EB049FD002D54E7 /* YN_GalleryVC.m in Sources */,
+				813040251EB04CBA002D54E7 /* STPhotoBrowserController.m in Sources */,
+				8130400C1EB04C1B002D54E7 /* HistogramView.m in Sources */,
+				8130403B1EB08397002D54E7 /* OpenModel.m in Sources */,
+				81303FF51EB04AE7002D54E7 /* Image_Show_VC.m in Sources */,
+				813040261EB04CBA002D54E7 /* STPhotoBrowserView.m in Sources */,
+				813040231EB04CBA002D54E7 /* STAlertView.m in Sources */,
 				81B52CFF1EB041700076D1C3 /* ViewController.m in Sources */,
+				8130400B1EB04C1B002D54E7 /* ClsDrawPoint.m in Sources */,
+				813040021EB04BF7002D54E7 /* WWimageExitInfo.m in Sources */,
+				813040361EB0822A002D54E7 /* WLImage.m in Sources */,
+				813040151EB04C8D002D54E7 /* STConst.m in Sources */,
 				81B52CFC1EB0416F0076D1C3 /* AppDelegate.m in Sources */,
 				81B52CF91EB0416F0076D1C3 /* main.m in Sources */,
+				813040241EB04CBA002D54E7 /* STIndicatorView.m in Sources */,
+				81303FFA1EB04B98002D54E7 /* CircleProgressView.m in Sources */,
+				813040271EB04CBA002D54E7 /* YN_Cell.m in Sources */,
+				8130400A1EB04C1B002D54E7 /* ClsDraw.m in Sources */,
+				81303FFE1EB04BC0002D54E7 /* ExifTableView.m in Sources */,
+				813040171EB04C8D002D54E7 /* UIView+ST.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,6 +599,7 @@
 				81B52D0D1EB041700076D1C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

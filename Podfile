@@ -8,6 +8,5 @@ pod 'MJRefresh'
 pod "MMMaterialDesignSpinner"
 pod 'SDWebImage', '~>3.8'
 pod 'AFNetworking', '~> 3.0'
-pod "MWPhotoBrowser" 
 
 end
