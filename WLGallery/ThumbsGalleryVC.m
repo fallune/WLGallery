@@ -7,7 +7,7 @@
 //  Copyright © 2016年 王立. All rights reserved.
 //
 
-#import "YN_GalleryVC.h"
+#import "ThumbsGalleryVC.h"
 #import "WLImage.h"
 #import "OpenModel.h"
 #import "Image_Show_VC.h"
@@ -31,7 +31,7 @@ static NSInteger SelectedNum;
 #define HEIGHT  [UIScreen mainScreen].bounds.size.height
 #define WS(weakSelf)  __weak __typeof(&*self)weakSelf = self;
 
-@interface YN_GalleryVC ()<UICollectionViewDataSource,UICollectionViewDelegate,MBProgressHUDDelegate>/** 存放假数据 */
+@interface ThumbsGalleryVC ()<UICollectionViewDataSource,UICollectionViewDelegate,MBProgressHUDDelegate>/** 存放假数据 */
 
 @property (nonatomic,strong)  NSMutableArray*  Array_Delete;
 @property (weak, nonatomic) IBOutlet UICollectionView *CollectionView;
@@ -46,7 +46,7 @@ static NSInteger SelectedNum;
 
 @end
 
-@implementation YN_GalleryVC
+@implementation ThumbsGalleryVC
 
 
 static NSString * const reuseIdentifier = @"imgcell";

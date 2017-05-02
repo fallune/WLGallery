@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface YN_GalleryVC : UIViewController
+@interface ThumbsGalleryVC : UIViewController
 {
      NSMutableArray *_selections;
 }

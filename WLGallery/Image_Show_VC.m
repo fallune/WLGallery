@@ -14,7 +14,7 @@
 #import "Masonry.h"
 #import "HistogramView.h"
 #import <QuartzCore/QuartzCore.h>
-#import "YN_Cell.h"
+#import "WL_Cell.h"
 #import "MBProgressHUD.h"
 #import "WWimageExitInfo.h"
 #import "ExifTableView.h"
@@ -285,7 +285,7 @@ static BOOL Has_Hidden = false;
 
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    YN_Cell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"cellYN" forIndexPath:indexPath];
+    WL_Cell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"cellYN" forIndexPath:indexPath];
 
     WLImage* theimage = [[OpenModel sharedStore] Array_Images][indexPath.row];
     

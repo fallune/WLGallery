@@ -1,14 +1,13 @@
 //
-//  YN_Cell.m
-//  YN_CamFi
+
 //
 //  Created by 王立 on 16/9/21.
 //  Copyright © 2016年 王立. All rights reserved.
 //
 
-#import "YN_Cell.h"
+#import "WL_Cell.h"
 
-@implementation YN_Cell
+@implementation WL_Cell
 
 - (void)prepareForReuse
 {
