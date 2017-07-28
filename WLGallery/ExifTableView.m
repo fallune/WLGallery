@@ -1,6 +1,6 @@
 //
 //  YN_PickerView.m
-//  YN_CamFi
+// 
 //
 //  Created by 王立 on 16/8/12.
 //  Copyright © 2016年 王立. All rights reserved.

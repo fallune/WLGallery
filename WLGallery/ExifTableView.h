@@ -1,6 +1,6 @@
 //
 //  ExifTableView.h
-//  YN_CamFi
+//  
 //
 //  Created by 王立 on 2017/3/7.
 //  Copyright © 2017年 王立. All rights reserved.

@@ -1,6 +1,6 @@
 //
 //  Image_Show_VC.h
-//  YN_CamFi
+//
 //
 //  Created by 王立 on 16/7/25.
 //  Copyright © 2016年 王立. All rights reserved.
